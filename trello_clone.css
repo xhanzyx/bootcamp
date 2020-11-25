@@ -89,7 +89,11 @@ a {
 input[type="email"] {
   border: none;
   color: white;
-  padding: 10px 15px;
+  padding-bottom: 10px;
+  padding-top:  10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 15px;
   text-align: left;
   color: deepskyblue;
   text-decoration: none;
@@ -105,7 +109,7 @@ input[value="Sign up - It's Free!"] {
   color: white;
   padding: 10px 15px;
   text-align: center;
-  font-size: 20px;
+  font-size: 18px;
   background-color: green;
   color: white;
   text-decoration: none;
@@ -146,6 +150,11 @@ input[value="Sign up - It's Free!"] {
 	border: none;
 }
 
-.section-2-text{
+.section-2-text {
 	margin-right: 10%;
 }
+
+.second-p {
+	font-size: 18px;
+}
+
